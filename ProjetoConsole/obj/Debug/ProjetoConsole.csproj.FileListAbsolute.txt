@@ -1,0 +1,6 @@
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\bin\Debug\ProjetoConsole.exe.config
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\bin\Debug\ProjetoConsole.exe
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\bin\Debug\ProjetoConsole.pdb
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\obj\Debug\ProjetoConsole.csprojResolveAssemblyReference.cache
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\obj\Debug\ProjetoConsole.exe
+c:\users\via antonio\documents\visual studio 2015\Projects\ProjetoFinal\ProjetoConsole\obj\Debug\ProjetoConsole.pdb
